@@ -1,0 +1,12 @@
+# python cache
+**/*.pyc
+**/__pycache__/
+
+# pyenv config
+.python-version
+
+# build files
+dist/
+build/
+*.egg-info/
+
